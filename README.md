@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rsbassi9
+- 👋 Hi, I’m @rsbassi9. An Engineer with a keen interest in AI.
 - 👀 I’m interested in Artificial Intelligence and ML
 - 🌱 I’m currently learning NLP, algorithms for classifications and sorting 
 - 💞️ I’m looking to collaborate on anything - feel free to reach out!
